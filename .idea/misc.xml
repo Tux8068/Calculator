@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/thoma/AndroidStudioProjects/TuxCalc/app/src/main/res/drawable/backspace.xml" value="0.332" />
         <entry key="..\:/Users/thoma/AndroidStudioProjects/TuxCalc/app/src/main/res/drawable/circle.xml" value="0.332" />
         <entry key="..\:/Users/thoma/AndroidStudioProjects/TuxCalc/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
       </map>

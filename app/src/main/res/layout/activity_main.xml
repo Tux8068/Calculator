@@ -278,7 +278,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/circle"
                 android:text="@string/equals"
-                android:textColor="#3BEA1A"
+                android:textColor="#43a047"
                 android:textSize="22sp"
                 android:layout_margin="5dp" />
         </TableRow>
@@ -296,13 +296,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
+    <ImageButton
         android:id="@+id/backspace"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/backspace"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:background="@drawable/circle"
+        app:srcCompat="@drawable/backspace"
         app:layout_constraintBottom_toTopOf="@+id/tableLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
